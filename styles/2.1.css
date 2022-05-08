@@ -1,0 +1,47 @@
+/*
+Проверка комментариаев
+*/
+body {font-family: Arial;}
+/*h1 {
+	font-size: 32pt;
+	font-family: Verdana;
+	text-align: center;
+	font-weight: normal;
+}
+p {
+	font-size: 12pt !important;
+	text-align: justify;
+}
+.picture {
+	text-align: center;
+}*/
+.greeting {
+	font-size: 14pt;
+	text-align: right;
+}
+.picture img {
+	width: 39%;
+}
+/*address {
+	text-align: right;
+}*/
+.advertising {
+	margin-left: 30pt;
+	margin-top: 12pt;
+	margin-bottom: 5pt;
+}
+.header {
+text-align: center;
+}
+.bigger {
+	font-size: 16pt;
+}
+table.pricelist th, table.pricelist td {
+	border: grey thin solid;
+	padding: 4px;
+}
+table.catalog td {
+	border-top: black thin dotted;
+	border-bottom: black thin dotted;
+	padding: 10px;
+}
