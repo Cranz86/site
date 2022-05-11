@@ -45,3 +45,11 @@ table.catalog td {
 	border-bottom: black thin dotted;
 	padding: 10px;
 }
+table.pricelist thead th {
+	color:white;
+	background-color:rgb(63, 65, 134);
+}
+tfoot.podval {
+	font-style: italic;
+	text-align: right;
+}
